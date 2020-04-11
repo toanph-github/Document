@@ -1,5 +1,3 @@
-## 1 Original English Lessons
-
 ## Day of the Dead
 
 I arrive in Guatemala on The Day of the Dead, November 1st. I’m curious about this holiday, so I go
