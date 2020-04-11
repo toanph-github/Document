@@ -1,0 +1,17 @@
+pages:
+  - HOME: index.md
+
+
+# Thông tin trang web
+site_name: Learn English
+repo_name: KNOWLEDGE BASED SYSTEMS
+site_author: Toanph
+copyright: '©2017: Toanph'
+site_description: 'Contact: Email toanph1505@gmail.com;  Skype toanph1505'
+theme:
+  name: null
+  custom_dir: 'cinder'
+  colorscheme: github
+  highlightjs: true
+
+
