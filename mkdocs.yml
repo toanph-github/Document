@@ -2,7 +2,7 @@ pages:
   - Home: index.md
   - English:
     - Effortless English:
-      - (1) Original English Audio: index.md
+      - Original English Audio: English/Effortless/original.md
 
 # Thông tin trang web
 site_name: Learn English
