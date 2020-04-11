@@ -1,6 +1,8 @@
 pages:
-  - HOME: index.md
-
+  - Home: index.md
+  - English:
+    - Effortless English:
+      - (1) Original English Audio: index.md
 
 # Thông tin trang web
 site_name: Learn English
