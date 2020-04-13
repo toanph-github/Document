@@ -1,6 +1,4 @@
-## Day of the Dead
-
-
+## A Kiss
 
 Carlos buys a new car. It’s a very expensive car. It’s a huge, blue, fast car. While driving down the treet, Carlos sees a girl on a bicycle.
 
