@@ -1,23 +1,21 @@
-## Day of the Dead
+## Intimacy
 
-I arrive in Guatemala on The Day of the Dead, November 1st. I’m curious about this holiday, so I go
-to the cemetery to see what’s happening. What I find is quite interesting. 
+DEAR ABBY: 
 
-The atmosphere is like a party. There are people everywhere. Families are sitting around the
-graves of their dead ancestors. They clean the graves and add fresh flowers. I walk through the
-cemetery and admire the beauty of all the colorful flowers. 
+My husband, "James," and I have been married only three years. We are both in our 20s.
+Everything is really great between us -- except our sex life. As far as he is concerned that's fine,
+too, but I am not satisfied. It may seem odd to hear the female wants to have sex more frequently
+than a young and healthy male, but that's the case in our relationship.
 
-There is also color in the sky, because many kids are flying kites. Some families are having a picnic
-next to the graves. They eat, drink, and chat together. People laugh and smile. 
+Abby, I work with the public and I get frequent remarks about what a beautiful woman I am. This
+makes it hard for me to believe that I don't attract him at all. I have expressed many times that I
+wish we were more intimate. I have even expressed it to him in more than one letter, hoping to
+reach him.
 
-In the Unites States, cemeteries are always somber. We certainly never have festivals or parties
-next to graves. We don’t laugh or play music or fly kites in cemeteries either. 
+I am at a total loss as to how to make him realize how important this is to me. Is there something
+wrong with my body? I just don't know who to turn to for advice on this subject. Please help me. 
 
-I find that I prefer the Guatemalan approach. I like the way they remember and celebrate those
-who have passed away. I like that they acknowledge death, instead of denying it the way
-Americans do. I like that there is life, as well as death, in their cemeteries. 
-
-Guatemalans call it “The Day of the Dead”, but it is also a day to appreciate life.
+-- SHORT ON INTIMACY IN OHIO
 
 
 

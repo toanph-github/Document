@@ -1,23 +1,24 @@
-## Day of the Dead
+## Drag
 
-I arrive in Guatemala on The Day of the Dead, November 1st. I’m curious about this holiday, so I go
-to the cemetery to see what’s happening. What I find is quite interesting. 
+HIGH PRICE OF MOM'S HELP IS DRAG ON FAMILY BUSINESS
 
-The atmosphere is like a party. There are people everywhere. Families are sitting around the
-graves of their dead ancestors. They clean the graves and add fresh flowers. I walk through the
-cemetery and admire the beauty of all the colorful flowers. 
+DEAR ABBY: 
 
-There is also color in the sky, because many kids are flying kites. Some families are having a picnic
-next to the graves. They eat, drink, and chat together. People laugh and smile. 
+Twenty years ago, my sister and I bought a business from our mother. We all love and respect one
+another and get along well. We will be finished paying off the business in two years
 
-In the Unites States, cemeteries are always somber. We certainly never have festivals or parties
-next to graves. We don’t laugh or play music or fly kites in cemeteries either. 
+Our problem: Mom, who is now 77, still draws a salary from us above and beyond the payment for
+the business. Her workload has lessened greatly, as it should. She could do all of her work in one
+day and lessen the burden of her salary. However, she says she'd "go crazy" if she retired. We
+don't want that. She could still come in as often as she wants and do her personal paperwork, banking, letter-writing, reading, etc. These are all things she does at "work" -- on the clock.
 
-I find that I prefer the Guatemalan approach. I like the way they remember and celebrate those
-who have passed away. I like that they acknowledge death, instead of denying it the way
-Americans do. I like that there is life, as well as death, in their cemeteries. 
+If we try to discuss this, Mom gets hurt and says, "Just let me know when I'm not worth the money."
+We don't want to do that. We would hope she would see the fairness of this and suggest it herself.
 
-Guatemalans call it “The Day of the Dead”, but it is also a day to appreciate life.
+Business expenses are going through the roof, and there are updates we should make, but we
+can't do it as long as we are paying Mom at the level we are, on top of the money for the buy-out. 
+
+-- DAUGHTERS DEAREST
 
 
 

@@ -1,23 +1,23 @@
-## Day of the Dead
+## Bubba’s Food
 
-I arrive in Guatemala on The Day of the Dead, November 1st. I’m curious about this holiday, so I go
-to the cemetery to see what’s happening. What I find is quite interesting. 
+Sara Smith, who lives in San Francisco, went shopping for cat food. 
 
-The atmosphere is like a party. There are people everywhere. Families are sitting around the
-graves of their dead ancestors. They clean the graves and add fresh flowers. I walk through the
-cemetery and admire the beauty of all the colorful flowers. 
+Sara is 30, and lives at 3037 Market St. She has lived there since 1990. Sara is married. She is
+married to a man named John. She has been married for 7 years.
 
-There is also color in the sky, because many kids are flying kites. Some families are having a picnic
-next to the graves. They eat, drink, and chat together. People laugh and smile. 
+They have two children, and one very big cat. Their son Bob is five years old and their daughter
+Nancy is three. Their cat, Bubba, is 2 years old. Bubba is huge. He weighs 258 pounds (117
+kilos)!
 
-In the Unites States, cemeteries are always somber. We certainly never have festivals or parties
-next to graves. We don’t laugh or play music or fly kites in cemeteries either. 
+At 9am, Sara got into her car and drove to the pet store. She bought 68 bags of cat food for $10
+each plus tax. The regular price was $15, so she got a good deal. The total was $680. She paid
+by credit card. 
 
-I find that I prefer the Guatemalan approach. I like the way they remember and celebrate those
-who have passed away. I like that they acknowledge death, instead of denying it the way
-Americans do. I like that there is life, as well as death, in their cemeteries. 
+On her way home, Sara stopped at a convenience store to buy milk. Bubba loves milk. The milk
+was $3.00 for one gallon, and Sara bought 30 gallons. She paid $100 and got $10 back in
+change.
 
-Guatemalans call it “The Day of the Dead”, but it is also a day to appreciate life.
+Sara got home at 11 a.m. Bubba was waiting at the door. He was very hungry. 
 
 
 

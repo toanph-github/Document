@@ -1,23 +1,14 @@
-## Day of the Dead
+## Changed
 
-I arrive in Guatemala on The Day of the Dead, November 1st. I’m curious about this holiday, so I go
-to the cemetery to see what’s happening. What I find is quite interesting. 
+NO AFFECTION ANYMORE
 
-The atmosphere is like a party. There are people everywhere. Families are sitting around the
-graves of their dead ancestors. They clean the graves and add fresh flowers. I walk through the
-cemetery and admire the beauty of all the colorful flowers. 
+DEAR ABBY: 
 
-There is also color in the sky, because many kids are flying kites. Some families are having a picnic
-next to the graves. They eat, drink, and chat together. People laugh and smile. 
+My husband of 39 years no longer hugs me or shows me any affection. I have seen him through
+cancer and diabetes. We have four grown children, and we have been seeing a therapist for a year
+and a half. He is kind, generous and friendly, but there are no compliments or any of the flirtatious
+banter we used to enjoy.
 
-In the Unites States, cemeteries are always somber. We certainly never have festivals or parties
-next to graves. We don’t laugh or play music or fly kites in cemeteries either. 
+He swears he's not having an affair, and he doesn't know why he has changed. Perhaps you do?
 
-I find that I prefer the Guatemalan approach. I like the way they remember and celebrate those
-who have passed away. I like that they acknowledge death, instead of denying it the way
-Americans do. I like that there is life, as well as death, in their cemeteries. 
-
-Guatemalans call it “The Day of the Dead”, but it is also a day to appreciate life.
-
-
-
+-- GRACE IN PHOENIX
