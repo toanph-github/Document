@@ -27,73 +27,73 @@ A, E, I, O, U
 - i_e: ice /**ɑɪ**s/, hide /h**ɑɪ**d/, smile /sm**ɑɪ**l/
 - igh: light /l**ɑɪ**t/, bright /br**ɑɪ**t/, sigh /s**ɑɪ**/
 - ie: tie /t**ɑɪ**/, pie /p**ɑɪ**/, die /d**ɑɪ**/
-- y: shy /ʃɑɪ/, sky /skɑɪ/, dry /drɑɪ/
-- -y-: cycle /sɑɪkl/, dynamic /dɑɪnæmɪk/, hyper /hɑɪpɚ/
+- y: shy /ʃ**ɑɪ**/, sky /sk**ɑɪ**/, dry /dr**ɑɪ**/
+- -y-: cycle /s**ɑɪ**kl/, dynamic /d**ɑɪ**næmɪk/, hyper /h**ɑɪ**pɚ/
 ### short i **/ɪ/**
-- -i- (CVC):  it /ɪt/, lip /lɪp/, spin /spɪn/
-- -y-: myth /mɪθ/, symbol /sɪmbəl/, system /sɪstəm/
+- -i- (CVC):  it /**ɪ**t/, lip /l**ɪ**p/, sp**i**n /sp**ɪ**n/
+- -y-: myth /m**ɪ**θ/, symbol /s**ɪ**mbəl/, system /s**ɪ**stəm/
 ### long o **/oʊ/**
-- o_e : joke /ʤoʊk/, rope /roʊp/, vote /voʊt/
-- oa: boat /boʊt/, soap /soʊp/,  toast /toʊst/
-- ow: snow /snoʊ/, own /oʊn/, known /noʊn/
-- -o-: most /moʊst/, go /goʊ/, both /boʊθ/
+- o_e : joke /ʤ**oʊ**k/, rope /r**oʊ**p/, vote /v**oʊ**t/
+- oa: boat /b**oʊ**t/, soap /s**oʊ**p/,  toast /t**oʊ**st/
+- ow: snow /sn**oʊ**/, own /**oʊ**n/, known /n**oʊ**n/
+- -o-: most /m**oʊ**st/, go /g**oʊ**/, both /b**oʊ**θ/
 ### short o **/ɑ/** 
-- -o- (CVC): odd /ɑd/, box /bɑks/, shock /ʃɑk/
+- -o- (CVC): odd /**ɑ**d/, box /b**ɑ**ks/, shock /ʃ**ɑ**k/
 ### long u **/ju:/**
-- u_e: cute /kyut/, cube /kyub/, huge /hyuʤ/
-- ue*: fuel /fyul/, hue /hyu/, rescue /rɛskyu/
-- ew*: few /fyu/, pew /pyu/, skew /skyu/
+- u_e: cute /k**ju:**t/, cube /k**ju:**b/, huge /h**ju:**ʤ/
+- ue*: fuel /f**ju:**l/, hue /h**ju:**/, rescue /rɛsk**ju:**/
+- ew*: few /f**ju:**/, pew /p**ju:**/, skew /sk**ju:**/
 ### short u **/ʌ/**
-- -u- (CVC): us /ʌs/, duck /dʌk/, just /ʤʌst/
+- -u- (CVC): us /**ʌ**s/, duck /d**ʌ**k/, just /ʤ**ʌ**st/
 ### other u **/ʊ/**
-- oo: good /gʊd/, look /lʊk/, book /bʊk/
-- -u- (CVC): put /pʊt/, full /fʊl/, sugar /'ʃʊg ɚ/
-- -ure: pure /pʊr/, cure /kʊr/,  insure /in 'ʃʊr/
+- oo: good /g**ʊ**d/, look /l**ʊ**k/, book /b**ʊ**k/
+- -u- (CVC): put /p**ʊ**t/, full /f**ʊ**l/, sugar /'ʃ**ʊ**g ɚ/
+- -ure: pure /p**ʊ**r/, cure /k**ʊ**r/,  insure /in 'ʃ**ʊ**r/
 ### oo sound **/u:/**
-- oo: soon /u/, food /u/, school /u/
-- u_e (VCe): rude /u/, intrude /u/, salute /u/
-- ue: clue /u/,  true /u/, glue /u/
-- ew: drew /u/, chew /u/, flew /u/
+- oo: soon /s**uː**n/, food /f**uː**d/, school /sk**uː**l/
+- u_e (VCe): rude /r**uː**d/, intrude /ɪnˈtr**uː**d/, salute /səˈl**uː**t/
+- ue: clue /kl**uː**/,  true /tr**uː**/, glue /ɡl**uː**/
+- ew: drew /dr**uː**/, chew /tʃ**uː**/, flew /fl**uː**/
 ### aw sound **/ɔ/**
-- aw: law /lɔw/, awful /'ɔ fəl/, drawn /drɔn/
-- -o- (CVC): dog /dɔg/, lost /lɔst/, soft /sɔft/
-- au: caution /'kɔ ʃən/, haunt /hɔnt/, author /'ɔ θɚ/
-- augh: caught /kɔt/, daughter /'dɔ t̬ɚ/, taught /tɔt/
-- ough(+t): brought /bɔ/, thought /θɔt/, ought /fɔt/
-- (w+)a:  want /wɔnt/, wash /wɔʃ/, watch /wɔʧ/
+- aw: law /l**ɔ**/, awful /'**ɔ** fəl/, drawn /dr**ɔ**n/
+- -o- (CVC): dog /d**ɔ**g/, lost /l**ɔ**st/, soft /s**ɔ**ft/
+- au: caution /'k**ɔ** ʃən/, haunt /h**ɔ**nt/, author /'**ɔ** θɚ/
+- augh: caught /k**ɔ**t/, daughter /'d**ɔ** t̬ɚ/, taught /t**ɔ**t/
+- ough(+t): brought /b**ɔ**/, thought /θ**ɔ**t/, ought /f**ɔ**t/
+- (w+)a:  want /w**ɔ**nt/, wash /w**ɔ**ʃ/, watch /w**ɔ**ʧ/
 ### oi sound **/ɔɪ/**
-- oi: oil /ɔɪl/, voice /vɔɪs/, point /pɔɪnt/
-- oy: boy /bɔɪ/, joy /ʤɔɪ/,  loyal /'lɔɪ əl/
+- oi: oil /**ɔɪ**l/, voice /v**ɔɪ**s/, point /p**ɔɪ**nt/
+- oy: boy /b**ɔɪ**/, joy /ʤ**ɔɪ**/,  loyal /'l**ɔɪ** əl/
 ### ow sound **/aʊ/**
-- ow: cow /kaʊ/,  brown /braʊn/, owl /aʊl/
-- ou:  mouse /maʊs/, count /kaʊnt/, out /aʊt/
+- ow: cow /k**aʊ**/,  brown /br**aʊ**n/, owl /**aʊ**l/
+- ou:  mouse /m**aʊ**s/, count /k**aʊ**nt/, out /**aʊ**t/
 
 ## R-controlled vowels
 
 ### schwa+r /ɚ/
-- er: her /hɚ/, verb /vɚb/, after /'æft ɚ/
-- ir: girl /gɚl/,  birth /bɚθ/, stir /stɚ/
-- ur: burn /bɚn/, purple /'pɚp l/, occur /ə 'kɚ/
-- ear:  learn /lɚn/, pearl /pɚl/, heard /hɚd/
-- (w+)or: word /wɚd/,  work /wɚk/, world /wɚld/
-- vowel+r (unstressed syllable): doctor /'dɑkt ɚ/,  forget /fɚ 'gɛt/, dollar /'dɑl ɚ/
+- er: her /h**ɚ**/, verb /v**ɚ**b/, after /'æft **ɚ**/
+- ir: girl /g**ɚ**l/,  birth /b**ɚ**θ/, stir /st**ɚ**/
+- ur: burn /b**ɚ**n/, purple /'p**ɚ**p l/, occur /ə 'k**ɚ**/
+- ear:  learn /l**ɚ**n/, pearl /p**ɚ**l/, heard /h**ɚ**d/
+- (w+)or: word /w**ɚ**d/,  work /w**ɚ**k/, world /w**ɚ**ld/
+- vowel+r (unstressed syllable): doctor /'dɑkt **ɚ**/,  forget /f**ɚ** 'gɛt/, dollar /'dɑl **ɚ**/
 ### ar sound /ɑr/
-- ar: arm /ɑrm/, start /stɑrt/, car /kɑr/
+- ar: arm /**ɑr**m/, start /st**ɑr**t/, car /k**ɑr**/
 ### or sound /ɔr/
-- or: corn /kɔrn, north /nɔrθ/,  short /ʃɔrt/
-- ore: more /mɔr/, store /stɔr/, before /bə 'fɔr/
-- oar: board /bɔrd/, roar /rɔr/,  soar /sɔr/
-- (w+)ar:  warm /wɔrm/, warning /wɔrn ɪŋ/, award /ə 'wɔrd/
+- or: corn /k**ɔr**n, north /n**ɔr**θ/,  short /ʃ**ɔr**t/
+- ore: more /m**ɔr**/, store /st**ɔr**/, before /bə 'f**ɔr**/
+- oar: board /b**ɔr**d/, roar /r**ɔr**/,  soar /s**ɔr**/
+- (w+)ar:  warm /w**ɔr**m/, warning /w**ɔr**n ɪŋ/, award /ə 'w**ɔr**d/
 - 'or sound' non-phonetic words: four, floor, door
 (Non-phonetic words are not pronounced according to their spelling. Their pronunciations should be memorized.)
 ### air sound /ɛr/
-- air:  chair /ʧɛr/, pair /pɛr/, stair /stɛr/
-- are: dare /dɛr/, rare /rɛr/, scare /scɛr/
+- air:  chair /ʧ**ɛr**/, pair /p**ɛr**/, stair /st**ɛr**/
+- are: dare /d**ɛr**/, rare /r**ɛr**/, scare /sc**ɛr**/
 - 'air sound' non-phonetic words: there, their, they're, where
 ### Schwa Sound /ə/ 
-- 'a': again: /ə 'gɛn/, vitamin: /'vɑɪ t̬ə mɪn/
-- 'e': petition: /pə ˈtɪʃ ən/, celebrate: /ˈsɛl ə breɪt/
-- 'i' spelling: president: /ˈprɛz ə dɛnt/, experiment: /ɪk 'spɛr ə mənt/
-- 'o' spelling: occur: /ə 'kɚ/, condition: /kən ˈdɪʃ ən/
-- 'u' spelling: campus: /ˈkæm pəs/, support: /sə ˈpɔrt/
+- 'a': again: /**ə** 'gɛn/, vitamin: /'vɑɪ t̬**ə** mɪn/
+- 'e': petition: /p**ə** ˈtɪʃ **ə**n/, celebrate: /ˈsɛl **ə** breɪt/
+- 'i' spelling: president: /ˈprɛz **ə** dɛnt/, experiment: /ɪk 'spɛr **ə** m**ə**nt/
+- 'o' spelling: occur: /ə 'k**ɚ**/, condition: /kən ˈdɪʃ **ə**n/
+- 'u' spelling: campus: /ˈkæm p**ə**s/, support: /s**ə** ˈpɔrt/
 
