@@ -1,23 +1,24 @@
-## Day of the Dead
+## Greek Family
 
-I arrive in Guatemala on The Day of the Dead, November 1st. I’m curious about this holiday, so I go
-to the cemetery to see what’s happening. What I find is quite interesting. 
+WOMAN WILL NEVER BE GREEK ENOUGH FOR HUSBAND'S FAMILY
 
-The atmosphere is like a party. There are people everywhere. Families are sitting around the
-graves of their dead ancestors. They clean the graves and add fresh flowers. I walk through the
-cemetery and admire the beauty of all the colorful flowers. 
+DEAR ABBY: 
 
-There is also color in the sky, because many kids are flying kites. Some families are having a picnic
-next to the graves. They eat, drink, and chat together. People laugh and smile. 
+I married a Greek man whose family never accepted me. Being young and naive, I tried everything to fit in,
+converting from Catholicism to the Greek Orthodox faith, attending all family functions, including them in
+our lives. It was never enough.
 
-In the Unites States, cemeteries are always somber. We certainly never have festivals or parties
-next to graves. We don’t laugh or play music or fly kites in cemeteries either. 
+My husband and I traveled to Crete with his family to visit his relatives there, and some extended family
+members refused to share the dinner table with me because I was not Greek. One of those family members
+was a priest!
 
-I find that I prefer the Guatemalan approach. I like the way they remember and celebrate those
-who have passed away. I like that they acknowledge death, instead of denying it the way
-Americans do. I like that there is life, as well as death, in their cemeteries. 
+Our daughter, "Athena," was born four years later. What broke the camel's back for me was a Christmas dinner when she was 6. My father-in-law gave cards with $100 to all the grandchildren of Greek heritage. Athena
+received nothing and cried for hours wanting to know why her grandfather didn't love her. My husband just
+tried to stay neutral.
 
-Guatemalans call it “The Day of the Dead”, but it is also a day to appreciate life.
+Abby, how far should someone have to go to fit in with their husband’s family? 
+
+-- IRISH AGAIN IN NEW HAMPSHIRE
 
 
 
