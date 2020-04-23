@@ -23,6 +23,11 @@ A, E, I, O, U
 - -y: happy /hæp**i:**/; body /bɑd**i:**/;    pony /poʊn**i:**/
 - -e: me /m**i:**/;  we /w**i:**/;    she /ʃ**i:**/
 
+### Short e **/ɛ/**
+- -e- (CVC): bed /b**ɛ**d/; send /s**ɛ**nd/; yes /y**ɛ**s/
+- ea: head /h**ɛ**d/; bread /br**ɛ**d/; heaven /h**ɛ**vən/
+- none: said /s**ɛ**d/; says /s**ɛ**z/; friend  /fr**ɛ**nd/; guest  /g**ɛ**st/; again  /ə ˈg**ɛ**n/
+
 ### long i **/ɑɪ/** 
 - i_e: ice /**ɑɪ**s/, hide /h**ɑɪ**d/, smile /sm**ɑɪ**l/
 - igh: light /l**ɑɪ**t/, bright /br**ɑɪ**t/, sigh /s**ɑɪ**/
@@ -30,7 +35,7 @@ A, E, I, O, U
 - y: shy /ʃ**ɑɪ**/, sky /sk**ɑɪ**/, dry /dr**ɑɪ**/
 - -y-: cycle /s**ɑɪ**kl/, dynamic /d**ɑɪ**næmɪk/, hyper /h**ɑɪ**pɚ/
 ### short i **/ɪ/**
-- -i- (CVC):  it /**ɪ**t/, lip /l**ɪ**p/, sp**i**n /sp**ɪ**n/
+- -i- (CVC):  it /**ɪ**t/, lip /l**ɪ**p/, spin /sp**ɪ**n/
 - -y-: myth /m**ɪ**θ/, symbol /s**ɪ**mbəl/, system /s**ɪ**stəm/
 ### long o **/oʊ/**
 - o_e : joke /ʤ**oʊ**k/, rope /r**oʊ**p/, vote /v**oʊ**t/
@@ -41,8 +46,8 @@ A, E, I, O, U
 - -o- (CVC): odd /**ɑ**d/, box /b**ɑ**ks/, shock /ʃ**ɑ**k/
 ### long u **/ju:/**
 - u_e: cute /k**ju:**t/, cube /k**ju:**b/, huge /h**ju:**ʤ/
-- ue*: fuel /f**ju:**l/, hue /h**ju:**/, rescue /rɛsk**ju:**/
-- ew*: few /f**ju:**/, pew /p**ju:**/, skew /sk**ju:**/
+- ue: fuel /f**ju:**l/, hue /h**ju:**/, rescue /rɛsk**ju:**/
+- ew: few /f**ju:**/, pew /p**ju:**/, skew /sk**ju:**/
 ### short u **/ʌ/**
 - -u- (CVC): us /**ʌ**s/, duck /d**ʌ**k/, just /ʤ**ʌ**st/
 ### other u **/ʊ/**
