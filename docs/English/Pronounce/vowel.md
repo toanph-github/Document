@@ -82,8 +82,17 @@ A, E, I, O, U
 - ear:  learn /l**ɚ**n/, pearl /p**ɚ**l/, heard /h**ɚ**d/
 - (w+)or: word /w**ɚ**d/,  work /w**ɚ**k/, world /w**ɚ**ld/
 - vowel+r (unstressed syllable): doctor /'dɑkt **ɚ**/,  forget /f**ɚ** 'gɛt/, dollar /'dɑl **ɚ**/
+
+### Schwa Sound /ə/ 
+- 'a': again: /**ə** 'gɛn/, vitamin: /'vɑɪ t̬**ə** mɪn/
+- 'e': petition: /p**ə** ˈtɪʃ **ə**n/, celebrate: /ˈsɛl **ə** breɪt/
+- 'i' spelling: president: /ˈprɛz **ə** dɛnt/, experiment: /ɪk 'spɛr **ə** m**ə**nt/
+- 'o' spelling: occur: /ə 'k**ɚ**/, condition: /kən ˈdɪʃ **ə**n/
+- 'u' spelling: campus: /ˈkæm p**ə**s/, support: /s**ə** ˈpɔrt/
+
 ### ar sound /ɑr/
 - ar: arm /**ɑr**m/, start /st**ɑr**t/, car /k**ɑr**/
+
 ### or sound /ɔr/
 - or: corn /k**ɔr**n, north /n**ɔr**θ/,  short /ʃ**ɔr**t/
 - ore: more /m**ɔr**/, store /st**ɔr**/, before /bə 'f**ɔr**/
@@ -91,14 +100,11 @@ A, E, I, O, U
 - (w+)ar:  warm /w**ɔr**m/, warning /w**ɔr**n ɪŋ/, award /ə 'w**ɔr**d/
 - 'or sound' non-phonetic words: four, floor, door
 (Non-phonetic words are not pronounced according to their spelling. Their pronunciations should be memorized.)
+
 ### air sound /ɛr/
 - air:  chair /ʧ**ɛr**/, pair /p**ɛr**/, stair /st**ɛr**/
 - are: dare /d**ɛr**/, rare /r**ɛr**/, scare /sc**ɛr**/
 - 'air sound' non-phonetic words: there, their, they're, where
-### Schwa Sound /ə/ 
-- 'a': again: /**ə** 'gɛn/, vitamin: /'vɑɪ t̬**ə** mɪn/
-- 'e': petition: /p**ə** ˈtɪʃ **ə**n/, celebrate: /ˈsɛl **ə** breɪt/
-- 'i' spelling: president: /ˈprɛz **ə** dɛnt/, experiment: /ɪk 'spɛr **ə** m**ə**nt/
-- 'o' spelling: occur: /ə 'k**ɚ**/, condition: /kən ˈdɪʃ **ə**n/
-- 'u' spelling: campus: /ˈkæm p**ə**s/, support: /s**ə** ˈpɔrt/
+
+
 

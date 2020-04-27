@@ -1,4 +1,4 @@
-# Jobs (68 words)
+# Jobs (56 words)
 
 ## List of Mathematics Vocabulary Words
 

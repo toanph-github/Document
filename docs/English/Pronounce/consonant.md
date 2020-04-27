@@ -7,7 +7,15 @@ A, E, I, O, U
 ## Consonant Sounds
 
 ### b sound /b/
+
+- back /bæk/
+- rabbit /'ræ bɪt/
+- job /ʤɑb/
+
 ### ch sound /ʧ/
+
+ch-spellings.jpg
+
 ### d sound /d/
 ### g sound /g/
 ### h sound /h/

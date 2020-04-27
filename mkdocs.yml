@@ -4,25 +4,34 @@ pages:
     - Vowel Sounds: English/Pronounce/vowel.md
     - Consonant Sounds: English/Pronounce/consonant.md
     - Other Sounds: English/Pronounce/other.md
-  - Word:
+  - Word (2740):
     - Noun:
-      - Animal: English/Word/Noun/1_animal.md
-      - Fruits and Vegetables: English/Word/Noun/2_fruits.md
-      - Types of Food and Drinks: English/Word/Noun/3_food.md
-      - Plant and Flower: English/Word/Noun/4_plant.md
-      - Clothes Vocabulary: English/Word/Noun/5_clothes.md
-      - Types of Shoes: English/Word/Noun/6_shoes.md
-      - Colours and Shapes: English/Word/Noun/7_colours and Shapes.md
-      - Mathematical: English/Word/Noun/8_Mathematical.md
-      - Jobs: English/Word/Noun/9_job.md
+      - Animal (125): English/Word/Noun/1_animal.md
+      - Fruits and Vegetables (76): English/Word/Noun/2_fruits.md
+      - Types of Food and Drinks (98): English/Word/Noun/3_food.md
+      - Plant and Flower (58): English/Word/Noun/4_plant.md
+      - Clothes Vocabulary (115): English/Word/Noun/5_clothes.md
+      - Types of Shoes (68): English/Word/Noun/6_shoes.md
+      - Colours and Shapes (48): English/Word/Noun/7_colours and Shapes.md
+      - Mathematical (68): English/Word/Noun/8_Mathematical.md
+      - Jobs (56): English/Word/Noun/9_job.md
     - Adj:
-      - List of Adjectives: English/Word/Adj/1_adjectives.md
-      - Family Members: English/Word/Adj/2_Family.md
-      - Body Parts: English/Word/Adj/3_Body.md
-      - Health and Healthcare: English/Word/Adj/4_Health.md
-      - School: English/Word/Adj/5_School.md
-      - Transportation and Vehicles: English/Word/Adj/6_Transportation.md
-      - List of Holidays: English/Word/Adj/7_Holidays.md
+      - List of Adjectives (250): English/Word/Adj/1_adjectives.md
+      - Family Members (44): English/Word/Adj/2_Family.md
+      - Body Parts (112): English/Word/Adj/3_Body.md
+      - Health and Healthcare (94): English/Word/Adj/4_Health.md
+      - School (95): English/Word/Adj/5_School.md
+      - Transportation and Vehicles (168): English/Word/Adj/6_Transportation.md
+      - List of Holidays (172): English/Word/Adj/7_Holidays.md
+      - House Vocabulary (83): English/Word/Adj/8_House.md
+      - Types of Furniture (101): English/Word/Adj/9_Furniture.md
+      - Kitchenware (89): English/Word/Adj/9_Kitchenware.md
+      - Tools and Equipment (298): English/Word/Adj/10_Equipment.md
+    - Hobbies:
+      - Tools and Equipment (76): English/Word/Hobbies/1_Sports.md
+      - Outdoor Games (81): English/Word/Hobbies/2_Outdoor.md
+      - Common Verbs (228): English/Word/Hobbies/3_Verbs.md
+      - Seasons and Natural (136): English/Word/Hobbies/4_Seasons.md
   - Effortless English:
     - Original English Audio: English/Effortless/Original/index.md
   - Crazy English:
