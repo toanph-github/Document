@@ -90,8 +90,8 @@ A, E, I, O, U
 - 'o' spelling: occur: /ə 'k**ɚ**/, condition: /kən ˈdɪʃ **ə**n/
 - 'u' spelling: campus: /ˈkæm p**ə**s/, support: /s**ə** ˈpɔrt/
 
-### ar sound /ɑr/
-- ar: arm /**ɑr**m/, start /st**ɑr**t/, car /k**ɑr**/
+### ar sound /ɑ:/
+- ar: arm /**ɑ:r**m/, start /st**ɑ:r**t/, car /k**ɑ:r**/
 
 ### or sound /ɔr/
 - or: corn /k**ɔr**n, north /n**ɔr**θ/,  short /ʃ**ɔr**t/
