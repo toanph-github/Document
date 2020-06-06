@@ -19,7 +19,7 @@
 ### 3. other u **/ʊ/**
 - oo: good /g**ʊ**d/, look /l**ʊ**k/, book /b**ʊ**k/
 - -u- (CVC): put /p**ʊ**t/, full /f**ʊ**l/, sugar /'ʃ**ʊ**g ɚ/
-- -ure: pure /p**ʊ**r/, cure /k**ʊ**r/,  insure /in 'ʃ**ʊ**r/
+- -ure: pure /pj**ʊ**r/, cure /kj**ʊ**r/,  insure /in 'ʃ**ʊ**r/
 
 ### 4. oo sound **/u:/**
 - oo: soon /s**uː**n/, food /f**uː**d/, school /sk**uː**l/
