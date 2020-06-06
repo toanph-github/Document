@@ -1,9 +1,5 @@
 pages:
-  - Home: index.md
-  - Pronounce American:
-    - Vowel Sounds: English/Pronounce/vowel.md
-    - Consonant Sounds: English/Pronounce/consonant.md
-    - Other Sounds: English/Pronounce/other.md
+  - Home: English/Pronounce/vowel.md
   - Word (2740):
     - People:
       - Family Members (44): English/Word/Adj/2_Family.md
